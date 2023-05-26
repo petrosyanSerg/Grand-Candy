@@ -1,0 +1,26 @@
+.Icon {
+	width: 35px;
+	aspect-ratio: 1/1;
+	border-radius: 50%;
+	border: 2px solid white;
+	color: #ffffff;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-size: 25px;
+	cursor: pointer;
+	transition: all 0.3s ease;
+
+	&:hover {
+		transform: scale(1.05);
+		color: chocolate;
+		border-color: chocolate;
+	}
+}
+
+
+@media screen and (max-width: 500px) {
+	.Icon {
+		font-size: 20px;
+	}
+}

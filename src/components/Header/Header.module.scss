@@ -1,0 +1,29 @@
+.header {
+	width: 100%;
+	padding-inline: 1rem;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	position: relative;
+	background-color: var(--main-ui-color);
+	-webkit-box-shadow: var(--box-shadow);
+	-moz-box-shadow: var(--box-shadow);
+	box-shadow: var(--box-shadow);
+}
+
+.Logo {
+	&__Img {
+		width: 150px;
+		height: 60px;
+		object-fit: contain;
+		object-position: center;
+	}
+}
+
+@media screen and (max-width: 500px) {
+	.Logo {
+		&__Img {
+			width: 120px;
+		}
+	}
+}

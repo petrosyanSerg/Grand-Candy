@@ -1,0 +1,38 @@
+.Languages {
+	&__Menu {
+		display: flex;
+	}
+
+	&__Item {
+		transition: all 0.3s ease;
+
+		&:nth-child(2) {
+			border-left: 2px solid #ffffff;
+			border-right: 2px solid #ffffff;
+		}
+
+
+		&:hover {
+			transform: scale(1.05);
+		}
+	}
+
+	&__Link {
+		font-size: 18px;
+		padding: 0.5rem 1rem;
+		transition: all 0.3s ease;
+
+		&:hover {
+			color: chocolate;
+		}
+	}
+}
+
+@media screen and (max-width: 500px) {
+	.Languages {
+		&__Link {
+			font-size: 16px;
+			padding: 0.5rem;
+		}
+	}
+}

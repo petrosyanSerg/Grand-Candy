@@ -1,0 +1,44 @@
+.Navbar {
+	position: absolute;
+	top: 10px;
+	right: 15px;
+	background-color: var(--main-ui-color);
+	padding: 1rem;
+	border: 2px solid whitesmoke;
+	border-radius: 15px;
+	box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+	font-weight: 500;
+	z-index: 10;
+
+	&__Close {
+		position: absolute;
+		top: 10px;
+		right: 10px;
+		font-size: 20px;
+		cursor: pointer;
+		color: white;
+		transition: all 0.3s ease;
+
+		&:hover {
+			transform: scale(1.05);
+			color: chocolate;
+		}
+	}
+
+	&__Menu {
+		display: flex;
+		flex-flow: column nowrap;
+	}
+
+	&__Item {
+		padding-block: 0.5rem;
+	}
+
+	&__Link {
+		transition: all 0.3s ease;
+
+		&:hover {
+			color: chocolate;
+		}
+	}
+}

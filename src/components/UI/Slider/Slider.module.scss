@@ -1,0 +1,113 @@
+@mixin btns {
+	padding: 0.5rem;
+	align-items: center;
+	appearance: none;
+	background-image: radial-gradient(100% 100% at 100% 0, #5adaff 0, #5468ff 100%);
+	border-radius: 6px;
+	box-shadow: rgba(45, 35, 66, .4) 0 2px 4px, rgba(45, 35, 66, .3) 0 7px 13px -3px, rgba(58, 65, 111, .5) 0 -3px 0 inset;
+	color: var(--main-ui-color);
+	cursor: pointer;
+	display: inline-flex;
+	justify-content: center;
+	transition: box-shadow .15s, transform .15s;
+	user-select: none;
+	-webkit-user-select: none;
+	touch-action: manipulation;
+	white-space: nowrap;
+	will-change: box-shadow, transform;
+
+	&:focus {
+		box-shadow: #3c4fe0 0 0 0 1.5px inset, rgba(45, 35, 66, .4) 0 2px 4px, rgba(45, 35, 66, .3) 0 7px 13px -3px, #3c4fe0 0 -3px 0 inset;
+	}
+
+	&:hover {
+		box-shadow: rgba(45, 35, 66, .4) 0 4px 8px, rgba(45, 35, 66, .3) 0 7px 13px -3px, #3c4fe0 0 -3px 0 inset;
+		transform: translateY(-2px);
+	}
+
+	&:active {
+		box-shadow: #3c4fe0 0 3px 7px inset;
+		transform: translateY(2px);
+	}
+}
+
+.Slider {
+	user-select: none;
+	width: 50%;
+	max-width: 650px;
+	min-width: 500px;
+	height: 455px;
+	position: relative;
+	border: 4px solid var(--main-ui-color);
+	border-radius: 15px;
+	overflow: hidden;
+	box-shadow: rgba(0, 0, 0, 0.07) 0px 1px 2px, rgba(0, 0, 0, 0.07) 0px 2px 4px, rgba(0, 0, 0, 0.07) 0px 4px 8px, rgba(0, 0, 0, 0.07) 0px 8px 16px, rgba(0, 0, 0, 0.07) 0px 16px 32px, rgba(0, 0, 0, 0.07) 0px 32px 64px;
+	animation: translateXY 10s infinite alternate;
+
+
+	&__Buttons {
+		position: absolute;
+		bottom: 40px;
+		right: 20px;
+		display: flex;
+		align-items: center;
+		gap: 1rem;
+		font-size: 20px;
+		color: #5468ff;
+		font-weight: 600;
+	}
+
+	&__Prev {
+		@include btns
+	}
+
+	&__Next {
+		@include btns
+	}
+
+	&__Image {
+		width: 100%;
+		height: 450px;
+		object-fit: cover;
+		object-position: center;
+	}
+}
+
+@keyframes translateXY {
+	0% {
+		transform: translate(-10px, 10px);
+	}
+
+	50% {
+		transform: translate(10px, 0px);
+
+	}
+
+	100% {
+		transform: translate(-10px, 10px);
+
+	}
+}
+
+@media screen and (max-width: 600px) {
+	.Slider {
+		width: 50%;
+		max-width: 450px;
+		min-width: 320px;
+		height: 240px;
+		border: 3px solid var(--main-ui-color);
+		border-radius: 10px;
+
+		&__Buttons {
+			bottom: 25px;
+			right: 10px;
+			gap: 0.5rem;
+			font-size: 16px;
+			color: #fff;
+		}
+
+		&__Image {
+			height: 234px;
+		}
+	}
+}

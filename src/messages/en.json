@@ -1,0 +1,104 @@
+{
+  "Home": {
+    "companyName": "Grand Candy",
+    "guid": "We produce joy",
+    "textMain": "'Grand Candy' company was founded in 2000. Using traditional technologies and the latest equipment, 'Grand Candy' took its leading position in the local market in a very short time and became the most famous and favorite brand in Armenia."
+  },
+  "MainLink": {
+    "home": "HOME",
+    "about": "ABOUT",
+    "products": "PRODUCTS",
+    "stores": "STORES",
+    "contacts": "CONTACTS"
+  },
+  "About": {
+    "title": "ABOUT",
+    "text": "'Grand Candy' is the largest enterprise in the food industry in Armenia. The company was founded in the beginning of 2000 by Hrant Vardanyan.First, hard candy production was launched, then that of chocolates. These two facilities were manufacturing 100 names of confectionery products. In 2000, only 600 people were working in “Grand Candy”. Increasing the annual volume of production and sales, 'Grand Candy' nowadays accounts for more than 40 percent of the confectionery market in Armenia. Due to well-organized production, the company managed to gain considerable presence in the market, offering well-known, traditional, as well as newly developed products to customers.Currently, 'Grand Candy' produces more than 400 different products. 'Grand Candy' is the only factory in the Transcaucasia to process cocoa beans.Delivery of the company’s products is carried out by 270 trucks through its own wholesale and retail network, 8 regional warehouses, 29 brand stores, thus supplying 8450 network, wholesale and retail food outlets in Armenia. Today the company organizes direct supply to 99.9% of shops all over Armenia. 'Grand Candy' production is certified with ISO 9001:2008 quality management standards and ISO 22000:2005 food safety control standards. The advantage of 'Grand Candy' products is the high quality and the use of only natural ingredients, such as cocoa and dairy products, nuts and fillings made from fresh fruits. Despite the high cost of natural raw materials, 'Grand Candy' never uses cheap and low quality ingredients or artificial additives of any kind. The key priority of 'Grand Candy' is the health of its consumers. Therefore, all the ingredients used in the production undergo an extensive analysis in the company’s main laboratory, which is certified according to ISO 17025 standards, and the quality control department ensures high and stable quality of the products.In 2001 'Grand Candy' began the production of ice-cream. The plant is equipped with Italian production lines.In 2006 'Grand Candy' launched its own production of corrugated cardboard packaging. In 2007 the company opened an offset printing-house, equipped with German machinery. In 2008 'Grand Candy' launched the production of coffee using modern technologies and Italian equipment. Arabica and Robusta coffee beans of highest quality are used in the production. In 2010 'Grand Candy' started producing exquisite pastries, which promptly became quite popular with our customers. For the first time it became possible in Armenia to bake 'home-made' pastries in industrial conditions. In 2012 'Grand Candy' started the production of flour. Presently, due to the modern European technologies and equipment, the company produces flour with the best qualitative properties. In 2016 the company opened a flexographic printing house, which is equipped with modern German printing machinery. The regular upgrading of the equipment and the introduction of new technologies enable the company to quickly react to market changes and maintain the leading position on the domestic market. On September 10, 2010, 'Grand Candy' set a new Guinness World Record with the 'Largest chocolate bar'. It became the first industrial record in Armenia. In 2000 'Grand Candy' set up a chain of brand stores, the first one in the long chain being 'Ponchikanots'. Today the company operates 29 brand stores throughout the Republic of Armenia, 21 of which, including 10 store-cafes, are located in Yerevan. 'Grand Candy' is distinguished by its unique human resources management policy, which enabled us to create a team of dedicated professionals. Today 'Grand Candy' is the largest domestic production company in the Republic of Armenia with more than 3200 employees. Every day the staff of 'Grand Candy' and the company’s owner himself go to work with one motto 'Our quality is our pride'."
+  },
+  "Products": {
+    "links": {
+      "iceCream": "Ice-cream",
+      "coffee": "Coffee",
+      "iceCoffe": "Ice-coffee and Ice-tea",
+      "confectionaryProducts": {
+        "name": "Confectionary Products",
+        "hardCandy": "Hard candy",
+        "dragee": "Dragee",
+        "chocolate": "Chocolate",
+        "assortedChocolate": "Assorted chocolate",
+        "chocolateBars": "Chocolate bars",
+        "joyco": "JOYCO",
+        "biscuits": "Biscuits",
+        "wafers": "Wafers",
+        "fruitJelly": "Fruit jelly",
+        "rahatLokoum": "Rahat-lokoum",
+        "cakesAndBakery": "Cakes and bakery"
+      }
+    },
+    "linksText": {
+      "Ice_Cream": "Our wide selection of 78 names of ice cream is made from fresh whole milk. Vanilla, chocolate, fruits and other types of ice-cream are produced both in weight and piece-types.  Our special offer is chocolate-covered and non-covered Eskimo-type ice cream, bricks, ice-creams in polyethylene bags and plastic packs, as well as in wafer cones and cups. By the way, these wafer cones and cups are also produced at our factory. For something particularly interesting try our unique ice cream cakes for special occasions. Our novelty is premium grade vanilla ice cream made with real vanilla beans.",
+      "Coffee_Text": "The assortment includes 33 names of Arabica and Robusta coffees with various aromas and tastes, available both in bulk (ground and in beans) and packaged in 100-gram packs. Coffee is imported from 12 countries.",
+      "Ice_Coffe": "The company produces also ice-coffee and 3 types of ice-tea: traditional black tea, with lemon and peach-flavored.",
+      "Confectionary_Products": {
+        "Hard_Candy": "The assortment of hard candies is quite diverse. It consists of 42 different kinds of products including sugar candies and candies with fruit, milk, nuts and pomade fillings and various chocolate-covered types, as well as toffee. Only natural high-quality ingredients are used in the production of hard candy - sugar, glucose syrup, nuts, dairy products, cocoa products, fresh fruit purée and dried fruits.",
+        "Dragee_Text": "We offer 25 different names of dragees in two categories: chocolate-covered and sugar-glazed. We use choice almonds, peanuts, hazelnuts, walnuts, sunflower seeds, raisins, desiccated coconut and sesame seeds that are coated with chocolate made from processed cocoa beans. Chocolate-covered dried fruits are our specialties.",
+        "Chocolate_Text": "The product line consists of 58 names of chocolates with pomade, praline, wafer and cream fillings, which are covered with chocolate made from an exquisite blend of cocoa beans imported from different countries. We also offer delicate smooth truffles and 4 kinds of traditional and vanilla-flavored creams, as well as with peanut and hazelnut.",
+        "Assorted_Chocolate": "The range includes 37 names of 120-500 gram chocolate boxes with different fillings made from cocoa products, desiccated coconut and nuts. The assortment includes chocolate bars, pomade, praline and cream chocolate and other types of chocolates, as well as 3 types of exclusive hand-made chocolates.",
+        "Chocolate_Bars": "We offer 35 different kinds of chocolate bars, made from the finest cocoa and various natural additives. Delicious milk chocolate takes its unique place among the bars due to its delicate taste and high nutritional value. Three different types of dark chocolate bars are available containing 60%, 70% and 80% of cocoa.",
+        "Joyco_Text": "In 2014 “Grand Candy” LLC started the manufacture of JOYCO chocolates made of dried fruits and various nuts covered with high-quality chocolate, such as dried strawberry with hazelnut, dried date with pistachio, dried prune with almond, dried fig with walnut, dried cherry with hazelnut, dried peach with almond and dried apricot with walnut. The unprecedented consumer interest towards JOYCO trademark has led to the manufacture of other JOYCO products with dried fruits. In 2016, the product line of the above mentioned chocolates has been enriched with other products to meet the requirements of EAEU counties. From now on, the consumers of JOYCO products may buy 79 types of chocolates, hard candy, dragee, wafers, fruit jelly, JOYCO – is for the connoisseurs of exceptional quality chocolate.",
+        "Biscuits_Text": "We offer 30 various types of biscuits with distinctive taste, made from high-grade wheat flour with fruits, chocolate and milk. Chocolate-covered biscuits are specialties for chocolate lovers. We also have a selection of salty sticks, two-layered cream-filled biscuits and different kinds of pastries for kids enriched with dairy products.",
+        "Wafers_Text": "The assortment includes 20 different names of crunchy wafers with chocolate, nuts, milk and fruit creams, that are also covered with chocolate. Our special products are wafer sticks with chocolate and vanilla fillings.",
+        "Fruit_Jelly": "We offer 4 different kinds of colorful, sweet fruit jellies made from top-quality ingredients. Dark and milk chocolate covered fruit jellies are also singular.",
+        "Rahat_Lokoum": "We produce Oriental sweets, known as rahat-lokoum, made only from natural ingredients. This product line includes nine varieties, including vanilla type, with nuts and rose oil.  The ones covered with milk chocolate are unique. All the types are sold individually wrapped as well as in a collection.",
+        "Cakes_And_Bakery": "We produce 83 varieties of cakes and piece and weighted pastries made from natural, fresh ingredients, such as cream butter, high-grade flour, selected nuts, fresh eggs, honey, fresh fruits, natural chocolate and cocoa powder and so on. This product line includes 24 names of cakes with fruits, nuts, honey and chocolate, 27 names of weighted and 30 names of piece-pastries. For special occasions customers can enjoy 20-piece and 40-piece selections of assorted pastries called 'Fourchette'."
+      }
+    }
+  },
+  "Stores": {
+    "location": [
+      "15 Arshakunyac Ave., Booth 20, Surmalu",
+      "17 Bagratunyats Ave.",
+      "18 Erebuni Str.",
+      "188 Bashinjaghyan Str.",
+      "2/2 Safaryan Str.",
+      "21 Papazyan Str.",
+      "214/7 Khudyakov Str.",
+      "25 Azatutyan Ave.",
+      "3 Kasyan Str.",
+      "31/1 Tigran Petrosyan Str.",
+      "4/5 Hasratyan Str.",
+      "50 Masis Str.",
+      "54 M. Mashtots Ave., Ponchikanots",
+      "55/5 P. Sevak Str.",
+      "5A M. Mashtots Ave.",
+      "61A Vantsyan Str.",
+      "7 Aleq Manukyan Str.",
+      "71 Tigran Mets Ave.",
+      "87/5 Artashisyan Str."
+    ]
+  },
+  "Contacts": {
+    "name": "Contacts",
+    "info": {
+      "Block_One": {
+        "title": "'Grand Candy' LLC",
+        "address": "Address: Masisi str. 31, Yerevan, 0061, Republic of Armenia"
+      },
+      "Block_Two": {
+        "SalesDepartment": "Sales department (+37410) 44 56 63"
+      },
+      "Block_Tree": {
+        "SupplyAndInternational": "Supply and international relations department (+37410) 44 56 33"
+      },
+      "Block_Four": {
+        "HR": "Human resources (+37410) 44 63 34"
+      },
+      "Block_Five": {
+        "QualityControl": "Quality control department (+37410) 44 44 11"
+      },
+      "Block_Six": {
+        "ExportDepartment": "Export department (+37410) 44 63 07"
+      }
+    }
+  }
+}
